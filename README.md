@@ -1,4 +1,7 @@
-## Hi there 👋
+# About me
+
+- 🌱 I’m currently learning GitHub.
+- 👯 I’m looking to collaborate on fluid mechanics and floating offshore wine turbine.
 
 <!--
 **Zhong-Wenjie/Zhong-Wenjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
